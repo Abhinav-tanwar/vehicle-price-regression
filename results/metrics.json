@@ -1,0 +1,17 @@
+{
+  "rows": 205,
+  "train_rows": 153,
+  "test_rows": 52,
+  "alpha": 1,
+  "baseline": {
+    "rmse": 7910.920688541197,
+    "mae": 5909.767555304173,
+    "r_squared": -0.00024992069910223513
+  },
+  "Ridge": {
+    "rmse": 2278.877647355382,
+    "mae": 1584.4887078575962,
+    "r_squared": 0.9169964854331376
+  },
+  "scope": "small observational price benchmark; source target units"
+}
